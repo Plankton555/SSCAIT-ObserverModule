@@ -6,6 +6,7 @@ More information can be found at
 * SSCAIT website: <http://sscaitournament.com/>
 * Technical report describing the module: <https://arxiv.org/abs/1505.00278>
 
+Due to some changes between BWAPI versions, the code in `source_bwapi_3_7/` and `source_bwapi_4/` is slightly different, but with no changes in functionality.
 
 
 ### Usage
